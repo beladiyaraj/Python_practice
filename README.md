@@ -6,7 +6,7 @@ Aim:
 
 Dictionary 
 
-a.Write a Python script to check whether a given key already exists in a dictionary. 
+a.Write a Python script to check whether a given key already exists in a dictionary.
 b.Write a Python script to merge two Python dictionaries. 
 c.Write a Python program to sum all the items in a dictionary. 
 d.Write a Python script to add a key to a dictionary. 
